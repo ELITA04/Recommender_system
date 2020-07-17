@@ -306,8 +306,6 @@ def main():
     print_list(x_train, y_train)
     print('Len of X train : ', len(x_train))
     print('Len of y train : ', len(y_train))
-print(y_train.value_counts().keys().tolist())
-    
     
 
 if __name__ == "__main__":
