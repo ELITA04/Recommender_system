@@ -44,6 +44,7 @@ TRAIN_DATA = [
   ('Hi everyone - I am looking for a new role in Data Science and Analytics and would appreciate your support.', {"entities" : [(37, 40, 'event-Job'), (45, 56, 'domain-DataScience'), (62, 70, 'domain-DataScience')]}),
   ('Finally i completed my AWS-EKS task , before that i took 2 days training on AWS-EKS under the #worldrecordholder Mr.Vimal Daga sir', {"entities" : [(23, 29, 'domain-Other'), (64, 71, 'event-Trainings')]}),
   ('Smart, Actionable Advice From Top LinkedIn Career And Job Search Professionals By Jack Kelly', {"entities" : [(18, 23, 'event-Webinars'), (54, 56, 'event-Job')]}), 
+  ('Talks job Internship competition courses seminars ', {'entities': [(0, 4, 'event-Talks'), (6, 8, 'event-Job'), (10, 19, 'event-Internship'), (21, 31, 'event-Competitions'), (33, 39, 'event-Courses'), (41, 48, 'event-Seminar')]}),
 
   ('Very helpful sessions by the experienced entrepreneur from all around the world', {"entities" : [(13, 20, 'event-Seminar')]}),
   ('latest episode of our podcast, Machine Learning That Works, we had a great pleasure to talk to Gabriel Preda, a Lead Data Scientist at Endava and a Kaggle Grandmaster.', {"entities" : [(22, 29, 'event-Webinar'), (31, 46, 'domain-MachineLearning')]}),
@@ -66,6 +67,34 @@ TRAIN_DATA = [
   ('Dear Students, it gives us immense pleasure to announce that we, Training & Placement Cell, RMD Sinhgad Technical Institutes Campus Warje, Pune-58 organizing the Webinar: AI and Data Science.', {"entities" : [(65, 72, 'event-Trainings'), (76, 84, 'event-Job'), (162, 169, 'event-Webinars'), (171, 172, 'domain-ArtificialIntelligence'), (178, 189, 'domain-DataScience')]}),
   ('Join the Webinar to grab the opportunity to learn about building Career In Cyber Security on July 19, 2020 @ 5 P.M via GoToMeeting.', {"entities" : [(9, 15, 'event-Webinars'), (75, 88, 'domain-Security')]}),
   ('Hello one, hello all We at XYZ College of Engieering and inviting all of you to our E-Hackathon Topic include Machine Learning, Blockchain, IoT and Finance', {"entities" : [(84, 94, 'event-Hackathons'), (110, 126, 'domain-MachineLearning'), (128, 138, 'domain-Blockchain'), (140, 142, 'domain-IoT'), (148, 154, 'domain-Finance')]}),
+
+  ('Internship opporunity for app development, AI, ML, datascience, DL, NLP, IOT ', {'entities': [(0, 9, 'event-Internship'), (26, 41, 'domain-MobileApplications'), (43, 45, 'domain-ArtificialIntelligence'), (47, 49, 'domain-MachineLearning'), (51, 62, 'domain-DataScience'), (64, 66, 'domain-ArtificialIntelligence'), (68, 71, 'domain-ArtificialIntelligence'), (73, 75, 'domain-IoT')]}),
+  ('Want to get certified in Blockchain, Cyber security, Python, Java. DOnt worry we got you covered! ', {'entities': [(12, 20, 'event-Certifications'), (25, 35, 'domain-Blockchain'), (43, 51, 'domain-Security'), (53, 59, 'domain-Python'), (61, 65, 'domain-Java')]}),
+  ('GoIreland is offering a webinar on Higher Education and masters in Ireland ', {'entities': [(24, 30, 'event-Webinars'), (35, 50, 'domain-HigherEducation'), (56, 62, 'domain-HigherEducation')]}),
+  ('Attend a seminar and talk by world renowned expert on Management and coding ', {'entities': [(9, 15, 'event-Seminar'), (21, 24, 'event-Talks'), (54, 63, 'domain-Management'), (69, 74, 'domain-Coding')]}),
+  ('Cloud counselage is offering workshops on Java, C and python! ', {'entities': [(29, 37, 'event-Workshops'), (42, 46, 'domain-Java'), (47, 48, 'domain-C'), (53, 58, 'domain-Python')]}),
+  ('Design a website using HTML, CSS, javascript and get certified for the same ', {'entities': [(9, 15, 'domain-WebDevelopment'), (23, 27, 'domain-WebDevelopment'), (29, 32, 'domain-WebDevelopment'), (34, 43, 'domain-WebDevelopment'), (53, 61, 'event-Certifications')]}),
+  ('Attend a hackathon on Blockchain , AI and IOT ', {'entities': [(9, 17, 'event-Hackathons'), (22, 31, 'domain-Blockchain'), (35, 36, 'domain-ArtificialIntelligence'), (42, 45, 'domain-IOT')]}),
+  ('Compete for the utlimate python master ', {'entities': [(0, 6, 'event-Competitions'), (25, 30, 'domain-Python')]}),
+  ('Strengthen you coding by participating in C++ and C competitions ', {'entities': [(15, 20, 'domain-Coding '), (42, 44, 'domain-C++'), (50, 50, 'domain-C'), (52, 63, 'event-Competitions')]}),
+  ('Trainings in cloud computing, networking and finance by renowned experts for Rs3000/- ', {'entities': [(0, 8, 'event-Trainings'), (13, 28, 'domain-CloudComputing'), (30, 39, 'domain-Networking'), (44, 50, 'domain-Finance')]}),
+
+  ('Apply for a job in datascience, finance, management ', {'entities': [(12, 14, 'event-Job'), (19, 30, 'domain-DataScience'), (32, 39, 'domain-Finance'), (41, 50, 'domain-Management')]}),
+  ('Codethon is on! Compete in different domains, web, app, ML, AI, IOT and win exciting prizes ', {'entities': [(0, 7, 'event-Hackathons'), (46, 49, 'domain-WebDevelopment'), (51, 54, 'domain-MobileApplications'), (56, 58, 'domain-MachineLearning'), (60, 62, 'domain-ArtificalIntelligence'), (64, 66, 'domain-IoT')]}),
+  ('Courses on Security, cloud computing, networking for 499/- ', {'entities': [(0, 6, 'event-Courses'), (11, 19, 'domain-Security'), (21, 36, 'domain-CloudComputing'), (38, 47, 'domain-Networking')]}),
+  ('Trainings on resume building ', {'entities': [(0, 8, 'event-Trainings'), (13, 27, 'domain-Other')]}),
+  ('Webinar on resume building ', {'entities': [(0, 6, 'event-Webinar'), (11, 25, 'domain-Other')]}),
+  ('Intern for XYZ company as a web developer ', {'entities': [(0, 5, 'event-Internship'), (28, 40, 'domain-WebDevelopment')]}),
+  ('seminar for higher studies ', {'entities': [(0, 6, 'event-Seminar'), (12, 25, 'domain-HigherEducation')]}),
+  ('Workshops on game development ', {'entities': [(0, 8, 'event-Workshops'), (13, 28, 'domain-C++')]}),
+  ('Flutter and android developer required urgently for job ', {'entities': [(0, 6, 'domain-MobileApplications'), (12, 28, 'domain-MobileApplications'), (52, 54, 'event-Job')]}),
+  ('Machine Learning using Javascript. Apply today! ', {'entities': [(0, 15, 'domain-MachineLearning'), (23, 33, 'domain-JavaScript')]}),
+
+  ('Security Higher Education Masters Management Resume building Internships Expos Competitions Compete ', {'entities': [(0, 7, 'domain-Security'), (9, 24, 'domain-HigherEducation'), (26, 32, 'domain-HigherEducation'), (34, 43, 'domain-Management'), (45, 59, 'domain-Other'), (61, 71, 'event-Internship'), (73, 77, 'event-Expos'), (79, 90, 'event-Competitions'), (92, 98, 'event-Competitions')]}),
+  ('React, ML, AI, IOT, Blockchain, App development ', {'entities': [(0, 5, 'domain-WebDevelopment'), (7, 9, 'domain-MachineLearning'), (11, 13, 'domain-ArtificialIntelligence'), (15, 18, 'domain-IoT'), (20, 30, 'domain-Blockchain'), (32, 46, 'domain-MobileApplications')]}),
+  ('Courses, seminar, webinar on cloud computing, networking and finance', {'entities': [(0, 7, 'event-Courses'),(9, 16, 'event-Seminar'),(18, 24, 'event-Webinars'),(29, 44, 'domain-CloudComputing'),(46, 55, 'domain-Networking'), (61, 67, 'domain-Finance')]}),
+  ('Hackathon on coding python java C javascript ', {'entities': [(0, 8, 'event-Hackathons'), (13, 18, 'domain-Coding'), (20, 25, 'domain-Python'), (27, 30, 'domain-Java'), (32, 32, 'domain-C'), (34, 43, 'domain-JavaScript')]}),
+  ('Develop your skills by taking courses and get certified for the same ', {'entities': [(13, 18, 'domain-Other'), (30, 36, 'event-Courses'), (46, 54, 'event-Certifications')]})
 ]
 
 random.shuffle(TRAIN_DATA)
