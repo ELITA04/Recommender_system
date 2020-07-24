@@ -1,7 +1,22 @@
 WEEK 1
 - Sentences for each event 'Fests' - @left
-- create a dataset for 13 events @ongoing
-- test this on BERT model
-- create a script for checking with employees
+- create a dataset for 13 events @done
+- test this on BERT model  @done
+- work on making dataset better @done
+- test again on model @done
+(results not satisfactory even after tweaking)
 
 WEEK 2
+- understand spaCy  @done
+- create a custom dataset for spaCy (50 Sentences)  @done
+- test  @done
+(average results work on improving dataset and test)
+- add post from linkedin and self annotation  @done
+- test  @done
+
+WEEK 3
+- build a fail safe incase model doesnt predict correctly  @done
+- build final script (predicts the domain and events and extracts from employee.csv)  @done
+- minor tweaking and few changes @left
+
+
