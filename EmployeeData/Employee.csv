@@ -1,367 +1,184 @@
-Name,Domain,Event1
-Bryan Brock,Management,Jobs
-Joseph Sullivan,Coding,Certifications
-Sherri Dawson,Security,Internships
-Dustin Ferguson,Hardware,Competitions
-Kayla Young,Web Development,Expos
-Angela Stokes,Higher Education,Workshops
-Curtis Ortega,IoT,Certifications
-Andrew Cox,Coding,Jobs
-Russell Vargas,Java,Trainings
-David Foster,Security,Certifications
-Pamela Burton,Web Development,Internships
-Joshua Miller,Management,Jobs
-Deborah Young,Artificial Intelligence,Expos
-Ann Morris,Management,Seminars
-David Cox,Python,Hackathons
-Chelsea Smith,Python,Workshops
-Corey Beck,Artificial Intelligence,Competitions
-Lisa Roberts,Finance,Fests
-Christine Potter,Mobile Applications,Certifications
-Valerie Yang,Higher Education,Internships
-Brian Powell,C++,Fests
-David Davis,Software Architecture,Seminars
-Jacqueline Houston,Web Development,Trainings
-Andrew Rodriguez,Python,Seminars
-Kayla Williams,IoT,Expos
-Erika Ross,Mobile Applications,Competitions
-Jessica Silva,Finance,Workshops
-Kristine Clark,Higher Education,Competitions
-Daniel Barnett,Java,Seminars
-Andrew Terry,Other,Seminars
-Bryan Martin,Other,Trainings
-Donna Hansen,Management,Trainings
-Kevin Robbins,Security,Talks
-Kenneth Martinez,Other,Webinars
-Melinda West,C,Expos
-James Burns,Java,Expos
-Julian Sanders,Cloud Computing,Hackathons
-Brandon Carlson,Other,Talks
-Melissa Brown,Python,Courses
-Alexander Barr,C++,Talks
-Beverly Mcguire,Security,Competitions
-Ernest Pierce,Security,Certifications
-Javier Leblanc,C,Hackathons
-Cassandra Meza,Networking,Competitions
-Colin Davis,JavaScript,Jobs
-Brittney Copeland,IoT,Internships
-Philip Woods,Hardware,Workshops
-Michelle Miller,Artificial Intelligence,Workshops
-Diana Thomas,Mobile Applications,Talks
-Angela Hall,Machine Learning,Fests
-Christopher Jones,Blockchain,Fests
-Gary Sanchez,JavaScript,Internships
-Christian Odom,Machine Learning,Webinars
-Jennifer Smith,Higher Education,Competitions
-Andrea Thompson,Finance,Trainings
-Anthony Williams,Networking,Talks
-Kathryn Odom,Cloud Computing,Talks
-Daniel Orozco,Java,Courses
-Cameron Pena,JavaScript,Expos
-Christopher Hernandez,C,Talks
-Edward Hampton,Java,Trainings
-James Raymond,Java,Expos
-William Rosales,Finance,Seminars
-Michele Campbell,JavaScript,Competitions
-Jessica Boyd,Python,Talks
-Michael Alvarado,Python,Webinars
-Jonathan Fowler,IoT,Webinars
-Laura Hurst,Coding,Jobs
-Valerie Snow,Networking,Competitions
-Bernard Friedman,Finance,Competitions
-Joshua Calhoun,Cloud Computing,Workshops
-Karen Baker,Coding,Internships
-Brian Patterson,Software Architecture,Internships
-Valerie Peterson,IoT,Hackathons
-Michael Baird,Blockchain,Internships
-Kelli Hodges,Java,Certifications
-Brian Hamilton,Blockchain,Certifications
-Glenn Martinez,Development Processes,Certifications
-Allison Robinson,C,Fests
-Virginia Lucas,Software Architecture,Certifications
-Carol Larson,Python,Webinars
-Justin Copeland,Web Development,Internships
-Anna Young,Security,Jobs
-Peter Wood,Cloud Computing,Courses
-John Pearson,C++,Courses
-Antonio Nelson,Cloud Computing,Expos
-Adam Richards,Data Science,Hackathons
-Matthew Martinez,Machine Learning,Internships
-Tracy Alexander,JavaScript,Trainings
-Janice Leonard,Web Development,Workshops
-Dennis Ramirez,IoT,Courses
-Mrs. Alexa Henson MD,Blockchain,Workshops
-Tracy Wilson,Cloud Computing,Trainings
-Beverly Hayes,C,Seminars
-Kristy Levine,Python,Jobs
-Tracy Mejia,Mobile Applications,Competitions
-Corey Moran,Coding,Seminars
-Edwin Bowman,Management,Courses
-Michael West,Web Development,Trainings
-William Sandoval,Networking,Fests
-Mrs. Marissa Dixon,Security,Seminars
-Teresa Riley,C,Hackathons
-Daniel Lopez,Management,Hackathons
-Thomas Thompson,Python,Fests
-Jessica Lee,Software Architecture,Workshops
-Wyatt Cruz,Networking,Certifications
-Tanya Armstrong,Hardware,Competitions
-Michael Parrish,C++,Jobs
-Samantha Mcdowell,Cloud Computing,Workshops
-Jennifer Merritt,Other,Expos
-James Porter,Blockchain,Seminars
-Aaron Black,Security,Workshops
-Mr. Charles Saunders DDS,Networking,Webinars
-Bryan Mann,Coding,Competitions
-Jasmine Brown,Machine Learning,Expos
-William Anderson,Higher Education,Trainings
-Mary Lewis,Coding,Webinars
-Samuel Johnston,Finance,Hackathons
-Laura Wood,C++,Workshops
-Robert Burton,Management,Fests
-Rebecca Kelley,Hardware,Internships
-Sherry Jensen,Development Processes,Fests
-John Phillips,Cloud Computing,Workshops
-Heather Frazier,Other,Jobs
-Christopher Myers,Java,Competitions
-Sharon Mitchell,Machine Learning,Internships
-Sharon Buckley,IoT,Trainings
-Mark Rogers,Python,Hackathons
-Lisa Thomas,IoT,Trainings
-Katherine Gonzalez,Development Processes,Webinars
-Jose Allen,Higher Education,Expos
-Brandi Perez,IoT,Expos
-Kenneth Jackson,Coding,Expos
-Courtney Evans,Blockchain,Hackathons
-Robert Ramirez,Other,Expos
-Kenneth Diaz,Networking,Jobs
-Matthew Graham,Management,Expos
-Marissa Dawson,Security,Talks
-Susan Bailey,Mobile Applications,Internships
-Michael Smith,Data Science,Talks
-Alyssa Davis,Cloud Computing,Seminars
-Julia Park,Blockchain,Trainings
-Stacy Jones,Machine Learning,Internships
-John Jackson,Blockchain,Expos
-Dana Bryant,Development Processes,Jobs
-Gail Duran,C++,Internships
-Micheal Brown,Web Development,Expos
-Kristina Rowland,Cloud Computing,Fests
-Derek Schmidt,Management,Jobs
-Benjamin Hall,Security,Competitions
-Gina Diaz,C,Competitions
-Russell Hall,Finance,Trainings
-Jennifer Thompson,Development Processes,Expos
-Lauren Martin,Mobile Applications,Jobs
-Patricia Miller,Mobile Applications,Competitions
-Stacy French,Java,Webinars
-Eric Townsend,Mobile Applications,Certifications
-Barbara Mcguire,Blockchain,Talks
-Michael Rowe,C++,Internships
-Melissa Harris,Other,Webinars
-Anthony Wilkinson,Networking,Hackathons
-Mrs. Brenda Scott,Other,Webinars
-James Cole,Finance,Internships
-Kristen Mitchell,Development Processes,Expos
-Todd Smith,Other,Certifications
-Melissa Diaz,Machine Learning,Jobs
-Jennifer Walker,Mobile Applications,Fests
-Ashley Rodriguez,Security,Hackathons
-Andre Elliott,Coding,Fests
-Maureen Gross,C++,Talks
-Jason Anthony,Development Processes,Seminars
-Brandon Molina,Higher Education,Competitions
-Jessica Terrell,Data Science,Expos
-Charles Parker,Cloud Computing,Expos
-Daniel Johnson,Data Science,Internships
-Robert Sanchez,Management,Expos
-Christina Carter,Networking,Internships
-Andre Mcclure,Finance,Seminars
-Katelyn Barnes,Coding,Courses
-Gabriel Cruz,Other,Talks
-Christina Williams,Software Architecture,Talks
-William Turner,Development Processes,Trainings
-Damon Lane,C,Seminars
-Bryan Brock,Management,Hackathons
-Joseph Sullivan,Coding,Webinars
-Sherri Dawson,Security,Fests
-Dustin Ferguson,Hardware,Webinars
-Kayla Young,Web Development,Certifications
-Angela Stokes,Higher Education,Seminars
-Curtis Ortega,IoT,Courses
-Andrew Cox,Coding,Certifications
-Russell Vargas,Java,Expos
-David Foster,Security,Courses
-Pamela Burton,Web Development,Fests
-Joshua Miller,Management,Certifications
-Deborah Young,Artificial Intelligence,Webinars
-Ann Morris,Management,Expos
-David Cox,Python,Jobs
-Chelsea Smith,Python,Seminars
-Corey Beck,Artificial Intelligence,Trainings
-Lisa Roberts,Finance,Certifications
-Christine Potter,Mobile Applications,Courses
-Valerie Yang,Higher Education,Seminars
-Brian Powell,C++,Internships
-David Davis,Software Architecture,Competitions
-Jacqueline Houston,Web Development,Seminars
-Andrew Rodriguez,Python,Internships
-Kayla Williams,IoT,Internships
-Erika Ross,Mobile Applications,Expos
-Jessica Silva,Finance,Seminars
-Kristine Clark,Higher Education,Fests
-Daniel Barnett,Java,Certifications
-Andrew Terry,Other,Jobs
-Bryan Martin,Other,Competitions
-Donna Hansen,Management,Expos
-Kevin Robbins,Security,Trainings
-Kenneth Martinez,Other,Certifications
-Melinda West,C,Internships
-James Burns,Java,Fests
-Julian Sanders,Cloud Computing,Courses
-Brandon Carlson,Other,Jobs
-Melissa Brown,Python,Expos
-Alexander Barr,C++,Seminars
-Beverly Mcguire,Security,Internships
-Ernest Pierce,Security,Talks
-Javier Leblanc,C,Courses
-Cassandra Meza,Networking,Certifications
-Colin Davis,JavaScript,Seminars
-Brittney Copeland,IoT,Courses
-Philip Woods,Hardware,Jobs
-Michelle Miller,Artificial Intelligence,Courses
-Diana Thomas,Mobile Applications,Expos
-Angela Hall,Machine Learning,Hackathons
-Christopher Jones,Blockchain,Hackathons
-Gary Sanchez,JavaScript,Seminars
-Christian Odom,Machine Learning,Fests
-Jennifer Smith,Higher Education,Talks
-Andrea Thompson,Finance,Jobs
-Anthony Williams,Networking,Expos
-Kathryn Odom,Cloud Computing,Jobs
-Daniel Orozco,Java,Talks
-Cameron Pena,JavaScript,Competitions
-Christopher Hernandez,C,Seminars
-Edward Hampton,Java,Seminars
-James Raymond,Java,Trainings
-William Rosales,Finance,Fests
-Michele Campbell,JavaScript,Courses
-Jessica Boyd,Python,Certifications
-Michael Alvarado,Python,Courses
-Jonathan Fowler,IoT,Hackathons
-Laura Hurst,Coding,Hackathons
-Valerie Snow,Networking,Certifications
-Bernard Friedman,Finance,Internships
-Joshua Calhoun,Cloud Computing,Internships
-Karen Baker,Coding,Fests
-Brian Patterson,Software Architecture,Fests
-Valerie Peterson,IoT,Fests
-Michael Baird,Blockchain,Workshops
-Kelli Hodges,Java,Webinars
-Brian Hamilton,Blockchain,Competitions
-Glenn Martinez,Development Processes,Talks
-Allison Robinson,C,Expos
-Virginia Lucas,Software Architecture,Hackathons
-Carol Larson,Python,Competitions
-Justin Copeland,Web Development,Competitions
-Anna Young,Security,Internships
-Peter Wood,Cloud Computing,Webinars
-John Pearson,C++,Webinars
-Antonio Nelson,Cloud Computing,Internships
-Adam Richards,Data Science,Jobs
-Matthew Martinez,Machine Learning,Hackathons
-Tracy Alexander,JavaScript,Competitions
-Janice Leonard,Web Development,Competitions
-Dennis Ramirez,IoT,Internships
-Mrs. Alexa Henson MD,Blockchain,Courses
-Tracy Wilson,Cloud Computing,Jobs
-Beverly Hayes,C,Competitions
-Kristy Levine,Python,Workshops
-Tracy Mejia,Mobile Applications,Courses
-Corey Moran,Coding,Webinars
-Edwin Bowman,Management,Jobs
-Michael West,Web Development,Courses
-William Sandoval,Networking,Internships
-Mrs. Marissa Dixon,Security,Workshops
-Teresa Riley,C,Expos
-Daniel Lopez,Management,Jobs
-Thomas Thompson,Python,Workshops
-Jessica Lee,Software Architecture,Internships
-Wyatt Cruz,Networking,Jobs
-Tanya Armstrong,Hardware,Webinars
-Michael Parrish,C++,Seminars
-Samantha Mcdowell,Cloud Computing,Internships
-Jennifer Merritt,Other,Courses
-James Porter,Blockchain,Jobs
-Aaron Black,Security,Jobs
-Mr. Charles Saunders DDS,Networking,Internships
-Bryan Mann,Coding,Expos
-Jasmine Brown,Machine Learning,Internships
-William Anderson,Higher Education,Workshops
-Mary Lewis,Coding,Talks
-Samuel Johnston,Finance,Competitions
-Laura Wood,C++,Hackathons
-Robert Burton,Management,Trainings
-Rebecca Kelley,Hardware,Trainings
-Sherry Jensen,Development Processes,Hackathons
-John Phillips,Cloud Computing,Seminars
-Heather Frazier,Other,Competitions
-Christopher Myers,Java,Internships
-Sharon Mitchell,Machine Learning,Competitions
-Sharon Buckley,IoT,Expos
-Mark Rogers,Python,Workshops
-Lisa Thomas,IoT,Expos
-Katherine Gonzalez,Development Processes,Courses
-Jose Allen,Higher Education,Fests
-Brandi Perez,IoT,Talks
-Kenneth Jackson,Coding,Competitions
-Courtney Evans,Blockchain,Workshops
-Robert Ramirez,Other,Courses
-Kenneth Diaz,Networking,Talks
-Matthew Graham,Management,Talks
-Marissa Dawson,Security,Internships
-Susan Bailey,Mobile Applications,Talks
-Michael Smith,Data Science,Jobs
-Alyssa Davis,Cloud Computing,Talks
-Julia Park,Blockchain,Courses
-Stacy Jones,Machine Learning,Fests
-John Jackson,Blockchain,Certifications
-Dana Bryant,Development Processes,Expos
-Gail Duran,C++,Jobs
-Micheal Brown,Web Development,Certifications
-Kristina Rowland,Cloud Computing,Competitions
-Derek Schmidt,Management,Hackathons
-Benjamin Hall,Security,Jobs
-Gina Diaz,C,Workshops
-Russell Hall,Finance,Internships
-Jennifer Thompson,Development Processes,Trainings
-Lauren Martin,Mobile Applications,Seminars
-Patricia Miller,Mobile Applications,Seminars
-Stacy French,Java,Certifications
-Eric Townsend,Mobile Applications,Trainings
-Barbara Mcguire,Blockchain,Hackathons
-Michael Rowe,C++,Courses
-Melissa Harris,Other,Fests
-Anthony Wilkinson,Networking,Competitions
-Mrs. Brenda Scott,Other,Certifications
-James Cole,Finance,Fests
-Kristen Mitchell,Development Processes,Fests
-Todd Smith,Other,Seminars
-Melissa Diaz,Machine Learning,Trainings
-Jennifer Walker,Mobile Applications,Talks
-Ashley Rodriguez,Security,Expos
-Andre Elliott,Coding,Talks
-Maureen Gross,C++,Workshops
-Jason Anthony,Development Processes,Courses
-Brandon Molina,Higher Education,Fests
-Jessica Terrell,Data Science,Fests
-Charles Parker,Cloud Computing,Webinars
-Daniel Johnson,Data Science,Hackathons
-Robert Sanchez,Management,Webinars
-Christina Carter,Networking,Competitions
-Andre Mcclure,Finance,Trainings
-Katelyn Barnes,Coding,Webinars
-Gabriel Cruz,Other,Fests
-Christina Williams,Software Architecture,Fests
-William Turner,Development Processes,Seminars
-Damon Lane,C,Internships
+Name,Domain,Event1,Event2
+Bryan Brock,Management,Jobs,Hackathons
+Joseph Sullivan,Coding,Certifications,Webinars
+Sherri Dawson,Security,Internships,Fests
+Dustin Ferguson,Hardware,Competitions,Webinars
+Kayla Young,Web Development,Expos,Certifications
+Angela Stokes,Higher Education,Workshops,Seminars
+Curtis Ortega,IoT,Certifications,Courses
+Andrew Cox,Coding,Jobs,Certifications
+Russell Vargas,Java,Trainings,Expos
+David Foster,Security,Certifications,Courses
+Pamela Burton,Web Development,Internships,Fests
+Joshua Miller,Management,Jobs,Certifications
+Deborah Young,Artificial Intelligence,Expos,Webinars
+Ann Morris,Management,Seminars,Expos
+David Cox,Python,Hackathons,Jobs
+Chelsea Smith,Python,Workshops,Seminars
+Corey Beck,Artificial Intelligence,Competitions,Trainings
+Lisa Roberts,Finance,Fests,Certifications
+Christine Potter,Mobile Applications,Certifications,Courses
+Valerie Yang,Higher Education,Internships,Seminars
+Brian Powell,C++,Fests,Internships
+David Davis,Software Architecture,Seminars,Competitions
+Jacqueline Houston,Web Development,Trainings,Seminars
+Andrew Rodriguez,Python,Seminars,Internships
+Kayla Williams,IoT,Expos,Internships
+Erika Ross,Mobile Applications,Competitions,Expos
+Jessica Silva,Finance,Workshops,Seminars
+Kristine Clark,Higher Education,Competitions,Fests
+Daniel Barnett,Java,Seminars,Certifications
+Andrew Terry,Other,Seminars,Jobs
+Bryan Martin,Other,Trainings,Competitions
+Donna Hansen,Management,Trainings,Expos
+Kevin Robbins,Security,Talks,Trainings
+Kenneth Martinez,Other,Webinars,Certifications
+Melinda West,C,Expos,Internships
+James Burns,Java,Expos,Fests
+Julian Sanders,Cloud Computing,Hackathons,Courses
+Brandon Carlson,Other,Talks,Jobs
+Melissa Brown,Python,Courses,Expos
+Alexander Barr,C++,Talks,Seminars
+Beverly Mcguire,Security,Competitions,Internships
+Ernest Pierce,Security,Certifications,Talks
+Javier Leblanc,C,Hackathons,Courses
+Cassandra Meza,Networking,Competitions,Certifications
+Colin Davis,JavaScript,Jobs,Seminars
+Brittney Copeland,IoT,Internships,Courses
+Philip Woods,Hardware,Workshops,Jobs
+Michelle Miller,Artificial Intelligence,Workshops,Courses
+Diana Thomas,Mobile Applications,Talks,Expos
+Angela Hall,Machine Learning,Fests,Hackathons
+Christopher Jones,Blockchain,Fests,Hackathons
+Gary Sanchez,JavaScript,Internships,Seminars
+Christian Odom,Machine Learning,Webinars,Fests
+Jennifer Smith,Higher Education,Competitions,Talks
+Andrea Thompson,Finance,Trainings,Jobs
+Anthony Williams,Networking,Talks,Expos
+Kathryn Odom,Cloud Computing,Talks,Jobs
+Daniel Orozco,Java,Courses,Talks
+Cameron Pena,JavaScript,Expos,Competitions
+Christopher Hernandez,C,Talks,Seminars
+Edward Hampton,Java,Trainings,Seminars
+James Raymond,Java,Expos,Trainings
+William Rosales,Finance,Seminars,Fests
+Michele Campbell,JavaScript,Competitions,Courses
+Jessica Boyd,Python,Talks,Certifications
+Michael Alvarado,Python,Webinars,Courses
+Jonathan Fowler,IoT,Webinars,Hackathons
+Laura Hurst,Coding,Jobs,Hackathons
+Valerie Snow,Networking,Competitions,Certifications
+Bernard Friedman,Finance,Competitions,Internships
+Joshua Calhoun,Cloud Computing,Workshops,Internships
+Karen Baker,Coding,Internships,Fests
+Brian Patterson,Software Architecture,Internships,Fests
+Valerie Peterson,IoT,Hackathons,Fests
+Michael Baird,Blockchain,Internships,Workshops
+Kelli Hodges,Java,Certifications,Webinars
+Brian Hamilton,Blockchain,Certifications,Competitions
+Glenn Martinez,Development Processes,Certifications,Talks
+Allison Robinson,C,Fests,Expos
+Virginia Lucas,Software Architecture,Certifications,Hackathons
+Carol Larson,Python,Webinars,Competitions
+Justin Copeland,Web Development,Internships,Competitions
+Anna Young,Security,Jobs,Internships
+Peter Wood,Cloud Computing,Courses,Webinars
+John Pearson,C++,Courses,Webinars
+Antonio Nelson,Cloud Computing,Expos,Internships
+Adam Richards,Data Science,Hackathons,Jobs
+Matthew Martinez,Machine Learning,Internships,Hackathons
+Tracy Alexander,JavaScript,Trainings,Competitions
+Janice Leonard,Web Development,Workshops,Competitions
+Dennis Ramirez,IoT,Courses,Internships
+Mrs. Alexa Henson MD,Blockchain,Workshops,Courses
+Tracy Wilson,Cloud Computing,Trainings,Jobs
+Beverly Hayes,C,Seminars,Competitions
+Kristy Levine,Python,Jobs,Workshops
+Tracy Mejia,Mobile Applications,Competitions,Courses
+Corey Moran,Coding,Seminars,Webinars
+Edwin Bowman,Management,Courses,Jobs
+Michael West,Web Development,Trainings,Courses
+William Sandoval,Networking,Fests,Internships
+Mrs. Marissa Dixon,Security,Seminars,Workshops
+Teresa Riley,C,Hackathons,Expos
+Daniel Lopez,Management,Hackathons,Jobs
+Thomas Thompson,Python,Fests,Workshops
+Jessica Lee,Software Architecture,Workshops,Internships
+Wyatt Cruz,Networking,Certifications,Jobs
+Tanya Armstrong,Hardware,Competitions,Webinars
+Michael Parrish,C++,Jobs,Seminars
+Samantha Mcdowell,Cloud Computing,Workshops,Internships
+Jennifer Merritt,Other,Expos,Courses
+James Porter,Blockchain,Seminars,Jobs
+Aaron Black,Security,Workshops,Jobs
+Mr. Charles Saunders DDS,Networking,Webinars,Internships
+Bryan Mann,Coding,Competitions,Expos
+Jasmine Brown,Machine Learning,Expos,Internships
+William Anderson,Higher Education,Trainings,Workshops
+Mary Lewis,Coding,Webinars,Talks
+Samuel Johnston,Finance,Hackathons,Competitions
+Laura Wood,C++,Workshops,Hackathons
+Robert Burton,Management,Fests,Trainings
+Rebecca Kelley,Hardware,Internships,Trainings
+Sherry Jensen,Development Processes,Fests,Hackathons
+John Phillips,Cloud Computing,Workshops,Seminars
+Heather Frazier,Other,Jobs,Competitions
+Christopher Myers,Java,Competitions,Internships
+Sharon Mitchell,Machine Learning,Internships,Competitions
+Sharon Buckley,IoT,Trainings,Expos
+Mark Rogers,Python,Hackathons,Workshops
+Lisa Thomas,IoT,Trainings,Expos
+Katherine Gonzalez,Development Processes,Webinars,Courses
+Jose Allen,Higher Education,Expos,Fests
+Brandi Perez,IoT,Expos,Talks
+Kenneth Jackson,Coding,Expos,Competitions
+Courtney Evans,Blockchain,Hackathons,Workshops
+Robert Ramirez,Other,Expos,Courses
+Kenneth Diaz,Networking,Jobs,Talks
+Matthew Graham,Management,Expos,Talks
+Marissa Dawson,Security,Talks,Internships
+Susan Bailey,Mobile Applications,Internships,Talks
+Michael Smith,Data Science,Talks,Jobs
+Alyssa Davis,Cloud Computing,Seminars,Talks
+Julia Park,Blockchain,Trainings,Courses
+Stacy Jones,Machine Learning,Internships,Fests
+John Jackson,Blockchain,Expos,Certifications
+Dana Bryant,Development Processes,Jobs,Expos
+Gail Duran,C++,Internships,Jobs
+Micheal Brown,Web Development,Expos,Certifications
+Kristina Rowland,Cloud Computing,Fests,Competitions
+Derek Schmidt,Management,Jobs,Hackathons
+Benjamin Hall,Security,Competitions,Jobs
+Gina Diaz,C,Competitions,Workshops
+Russell Hall,Finance,Trainings,Internships
+Jennifer Thompson,Development Processes,Expos,Trainings
+Lauren Martin,Mobile Applications,Jobs,Seminars
+Patricia Miller,Mobile Applications,Competitions,Seminars
+Stacy French,Java,Webinars,Certifications
+Eric Townsend,Mobile Applications,Certifications,Trainings
+Barbara Mcguire,Blockchain,Talks,Hackathons
+Michael Rowe,C++,Internships,Courses
+Melissa Harris,Other,Webinars,Fests
+Anthony Wilkinson,Networking,Hackathons,Competitions
+Mrs. Brenda Scott,Other,Webinars,Certifications
+James Cole,Finance,Internships,Fests
+Kristen Mitchell,Development Processes,Expos,Fests
+Todd Smith,Other,Certifications,Seminars
+Melissa Diaz,Machine Learning,Jobs,Trainings
+Jennifer Walker,Mobile Applications,Fests,Talks
+Ashley Rodriguez,Security,Hackathons,Expos
+Andre Elliott,Coding,Fests,Talks
+Maureen Gross,C++,Talks,Workshops
+Jason Anthony,Development Processes,Seminars,Courses
+Brandon Molina,Higher Education,Competitions,Fests
+Jessica Terrell,Data Science,Expos,Fests
+Charles Parker,Cloud Computing,Expos,Webinars
+Daniel Johnson,Data Science,Internships,Hackathons
+Robert Sanchez,Management,Expos,Webinars
+Christina Carter,Networking,Internships,Competitions
+Andre Mcclure,Finance,Seminars,Trainings
+Katelyn Barnes,Coding,Courses,Webinars
+Gabriel Cruz,Other,Talks,Fests
+Christina Williams,Software Architecture,Talks,Fests
+William Turner,Development Processes,Trainings,Seminars
+Damon Lane,C,Seminars,Internships
