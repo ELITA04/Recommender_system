@@ -7,13 +7,16 @@ import sys
 from pathlib import Path
 import re
 
+# **** create a dataframe for input with heading 'InputSent ****
+
+
 #Loading model from directory
 output_dir = './Model'
 
 # read the input csv
 df = pd.read_csv('./input.csv')
 # read the employee data
-Employee = pd.read_csv('./data/Employee.csv')
+Employee = pd.read_csv('./EmployeeData/Employee.csv')
 Employee.tail()
 
 
@@ -35,6 +38,7 @@ for sent in df['InputSent']:
 
   inp = inp.split(' ')
   for word in inp:
+    # incase the model misses the entity prediction, using get_close_matches as a fail safe
     label = difflib.get_close_matches(word, ['Security', 'Education', 'Data Science', 'Machine Learning', 'Blockchain', 'Artifical Intelligence', 'Hardware', 'Management', 'Web', 'IoT', 'Mobile', 'Coding', 'Java', 'Python', 'C', 'JavaScript', 'Finance', 'Internship', 'Competitions', 'Expo', 'Jobs', 'Talks', 'Courses', 'Certifications', 'Hackathons', 'Trainings', 'Webinars', 'Workshops', 'AI', 'ML'])
     if label != [] and label[0] not in l:
       l.append(label[0])
@@ -100,6 +104,6 @@ for sent in df['InputSent']:
     output = {'InputSent' : temp, 'Recommend' : listToStr}
     df_output = pd.DataFrame(output, index = [i])
     i = i + 1
-    df_output.to_csv('./output.csv', mode = 'a', header = False)
+    df_output.to_csv('./output.xls', mode = 'a', header = False)
 
   print('\n')
